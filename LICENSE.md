@@ -1,4 +1,4 @@
-# 
+# Código aberto YNAB complementos para Mac OS | Ultimato YNAB complementos para PC Windows. Com exportação de dados e codificação de projetos — otimizado para máximo desempenho em cada plataforma.
 
 
 
